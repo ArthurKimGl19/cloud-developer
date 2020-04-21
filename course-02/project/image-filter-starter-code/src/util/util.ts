@@ -20,7 +20,7 @@ export async function filterImageFromURL(inputURL: string): Promise<string>{
             resolve(__dirname+outpath);
         });
     });
-}
+}0
 
 // deleteLocalFiles
 // helper function to delete files on the local disk
